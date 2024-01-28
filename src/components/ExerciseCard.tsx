@@ -35,7 +35,7 @@ export function ExerciseCard({ ...rest }: ExerciseCardProps) {
           </Text>
         </VStack>
 
-        <Icon as={Entypo} name="chevron-thin-light" color={'gray.300'} />
+        <Icon as={Entypo} name="chevron-thin-right" color={'gray.300'} />
       </HStack>
     </TouchableOpacity>
   )
